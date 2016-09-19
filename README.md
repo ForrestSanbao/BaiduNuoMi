@@ -1,5 +1,5 @@
 # BaiduNuoMiDemo
-BaiduNuoMiDemo By Samboo.
+BaiduNuoMi By Samboo.
 
 Thank you for your support!
 
